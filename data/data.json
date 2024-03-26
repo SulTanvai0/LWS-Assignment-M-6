@@ -1,0 +1,220 @@
+{
+  "products": [
+    {
+      "id": "aeiou01",
+      "title": "Galaxy S23 Ultra",
+      "description": "The use of conscious materials makes this our most eco-friendly smartphone ever.1,2 Recycled glass and PET film accent the phone's exterior, and box made from recycled paper makes it planet-loving from the moment it hits your hands.5...",
+      "price": 999,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Samsung",
+      "category": "smartphones",
+      "thumbnail": "/assets/products/phones/samsungS23ultra.jpeg",
+      "images": [
+        "/assets/products/phones/samsungS23ultra.jpeg",
+        "/assets/products/phones/samsungS23ultra.1.jpeg",
+        "/assets/products/phones/samsungS23ultra.2.jpeg",
+        "/assets/products/phones/samsungS23ultra.3.jpeg"
+      ]
+    },
+    {
+      "id": "aeiou02",
+      "title": "iPhone 15 Pro max",
+      "description": "The iPhone 15 Pro Max display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.69 inches diagonally (actual viewable area is less)...",
+      "price": 899,
+      "discountPercentage": 17.94,
+      "rating": 4.44,
+      "stock": 34,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "/assets/products/phones/i-phone15ProMax.jpeg",
+      "images": [
+        "/assets/products/phones/i-phone15ProMax.jpeg",
+        "/assets/products/phones/i-phone15ProMax.1.jpeg",
+        "/assets/products/phones/i-phone15ProMax.2.jpeg",
+        "/assets/products/phones/i-phone15ProMax.3.jpeg"
+      ]
+    },
+    {
+      "id": "aeiou03",
+      "title": "xiaomi 14 Ultra",
+      "description": "The Xiaomi 14 Ultra adopts a brand-new 6M42 integrated high-strength aluminum frame material, with the metal frame extending to the back of the body, doubling the rigidity compared to the Xiaomi 13 Pro. The reliable body ensures worry-free usage...",
+      "price": 1249,
+      "discountPercentage": 15.46,
+      "rating": 4.09,
+      "stock": 36,
+      "brand": "Xiaomi",
+      "category": "smartphones",
+      "thumbnail": "/assets/products/phones/xiaomi14ultra.jpeg",
+      "images": [
+        "/assets/products/phones/xiaomi14ultra.jpeg",
+        "/assets/products/phones/xiaomi14ultra.1.jpeg",
+        "/assets/products/phones/xiaomi14ultra.2.jpeg",
+        "/assets/products/phones/xiaomi14ultra.3.jpeg"
+      ]
+    },
+    {
+      "id": "aeiou04",
+      "title": "Huawei Mate 60 Pro",
+      "description": "The dimension of the device is 163.7 x 79 x 8.1 mm while it weighs 225 grams. The device is powered by the Kirin 9000S Octa-core processor while the GPU is Maleoon 910 GPU. The smartphone is pack with 12 GB RAM and 256 GB, 512 GB, 1 TB internal storage. The device comes with an OLED 6.82 inches screen size and the resolution is 1212 x 2616 pixels...",
+      "price": 280,
+      "discountPercentage": 17.91,
+      "rating": 4.3,
+      "stock": 123,
+      "brand": "OPPO",
+      "category": "smartphones",
+      "thumbnail": "/assets/products/phones/huaweiMate60Pro.jpeg",
+      "images": [
+        "/assets/products/phones/huaweiMate60Pro.jpeg",
+        "/assets/products/phones/huaweiMate60Pro.1.jpeg",
+        "/assets/products/phones/huaweiMate60Pro.2.jpeg",
+        "/assets/products/phones/huaweiMate60Pro.3.jpeg"
+      ]
+    },
+    {
+      "id": "aeiou05",
+      "title": "Asus ROG Zephyrus 16",
+      "description": "Here you can now buy the latest Asus ROG Zephyrus Duo 16 Gaming Laptop. Check Asus ROG Zephyrus Duo 16 GX650PY Price from our website now. With this new 2023 Model Asus Gaming Laptop you will get the AMD latest 7th generation processor and the RTX 40 series GPU.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "brand": "asus",
+      "category": "laptops",
+      "thumbnail": "/assets/products/laptop/AsusROGZephyrus16.jpeg",
+      "images": [
+        "/assets/products/laptop/AsusROGZephyrus16.jpeg",
+        "/assets/products/laptop/AsusROGZephyrus16.1.jpeg",
+        "/assets/products/laptop/AsusROGZephyrus16.2.jpeg",
+        "/assets/products/laptop/AsusROGZephyrus16.3.jpeg"
+      ]
+    },
+    {
+      "id": "aeiou06",
+      "title": "MacBook Pro",
+      "description": "15.4-inch (diagonal) LED-backlit display with IPS technology; 2880-by-1800 native resolution at 220 pixels per inch with support for millions of colors",
+      "price": 1749,
+      "discountPercentage": 11.02,
+      "rating": 4.57,
+      "stock": 83,
+      "brand": "Apple",
+      "category": "laptops",
+      "thumbnail": "/assets/products/laptop/mackBookPro.jpeg",
+      "images": [
+        "/assets/products/laptop/mackBookPro.jpeg",
+        "/assets/products/laptop/mackBookPro.1.jpeg",
+        "/assets/products/laptop/mackBookPro.2.jpeg",
+        "/assets/products/laptop/mackBookPro.3.jpeg"
+      ]
+    },
+    {
+      "id": "aeiou07",
+      "title": "Samsung Galaxy Book 4 pro",
+      "description": "Meet Galaxy Book4 Series, featuring dynamic displays and powerful Intel® processors to help you elevate every experience. Get up to $800 trade-in credit and a free, select Portable SSD 2TB (a $219.99 value).θ,J",
+      "price": 1499,
+      "discountPercentage": 4.15,
+      "rating": 4.25,
+      "stock": 50,
+      "brand": "Samsung",
+      "category": "laptops",
+      "thumbnail": "/assets/products/laptop/GalaxyBook4Pro.3.jpg",
+      "images": [
+        "/assets/products/laptop/GalaxyBook4Pro.3.jpg",
+        "/assets/products/laptop/GalaxyBook4Pro.jpeg",
+        "/assets/products/laptop/GalaxyBook4Pro.1.jpeg",
+        "/assets/products/laptop/GalaxyBook4Pro.2.jpeg"
+      ]
+    },
+    {
+      "id": "aeiou08",
+      "title": "Asus Zen Book",
+      "description": "The elegant Zenbook is compact, ultrathin and light, featuring the best laptop technology, NanoEdge displays, precision craftsmanship, uncompromising performance, and innovation. It's designed to bring out the very best in you.",
+      "price": 1499,
+      "discountPercentage": 10.23,
+      "rating": 4.43,
+      "stock": 68,
+      "brand": "asus",
+      "category": "laptops",
+      "thumbnail": "/assets/products/laptop/asusZenBook.jpeg",
+      "images": [
+        "/assets/products/laptop/asusZenBook.jpeg",
+        "/assets/products/laptop/asusZenBook.1.jpeg",
+        "/assets/products/laptop/asusZenBook.2.jpeg",
+        "/assets/products/laptop/asusZenBook.3.jpeg"
+      ]
+    },
+    {
+      "id": "aeiou09",
+      "title": "PARISIAN MUSC",
+      "description": "PARISIAN MUSC is an urban, modern woody musk built around precious Ambrette Seed from Peru, the only vegetal musk in the Perfumers' palette. Cedar Oil brings out a woody long lasting trail. The musky facet is amplified by Ambrettolide and Ambroxan. A fig leaf note highlights the vegetal character.",
+      "price": 1099,
+      "discountPercentage": 11.83,
+      "rating": 4.54,
+      "stock": 96,
+      "brand": "sundora beauty",
+      "category": "fragrances",
+      "thumbnail": "/assets/products/fragrances/parisian-musc.jpeg",
+      "images": [
+        "/assets/products/fragrances/parisian-musc.jpeg",
+        "/assets/products/fragrances/parisian-musc.1.jpeg",
+        "/assets/products/fragrances/parisian-musc.2.jpeg",
+        "/assets/products/fragrances/parisian-musc.3.jpeg"
+      ]
+    },
+    {
+      "id": "aeiou010",
+      "title": "HPNISHANE X",
+      "description": "NISHANE is the first and only Istanbul based niche perfume brand that is celebrated globally with an exceptional point of view on artistic perfumery. This can easily be recognized by the uniqueness of the scent creations.",
+      "price": 1099,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "sundora beauty",
+      "category": "fragrances",
+      "thumbnail": "/assets/products/fragrances/NISHANE-X.jpeg",
+      "images": [
+        "/assets/products/fragrances/NISHANE-X.jpeg",
+        "/assets/products/fragrances/NISHANE-X.1.jpeg",
+        "/assets/products/fragrances/NISHANE-X.2.jpeg",
+        "/assets/products/fragrances/NISHANE-X.3.jpeg"
+      ]
+    },
+    {
+      "id": "aeiou011",
+      "title": "Plum Green Tea Renewed Clarity Night Gel (50ml)",
+      "description": "This night gel contains non-comedogenic ingredients. Glycolic acid sweeps away skin debris and prepares the skin for self-renewal. It works wonders with all your pigmentation issues.",
+      "price": 13,
+      "discountPercentage": 8.4,
+      "rating": 4.26,
+      "stock": 65,
+      "brand": "plam",
+      "category": "skincare",
+      "thumbnail": "/assets/products/skincare/PlumGreenTea.2.jpeg",
+      "images": [
+        "/assets/products/skincare/PlumGreenTea.3.jpeg",
+        "/assets/products/skincare/PlumGreenTea.2.jpeg",
+        "/assets/products/skincare/PlumGreenTea.1.jpeg",
+        "/assets/products/skincare/PlumGreenTea.jpeg"
+      ]
+    },
+    {
+      "id": "aeiou012",
+      "title": "Lafz Caffeine Face Mask (50g)",
+      "description": "LAFZ Caffeine Face Mask is a great option for those looking for a deep-cleansing and revitalizing mask. It is effective in reducing acne, absorbing excess oil, and brightening the skin.",
+      "price": 40,
+      "discountPercentage": 15.66,
+      "rating": 4,
+      "stock": 52,
+      "brand": "Royal_Mirage",
+      "category": "skincare",
+      "thumbnail": "/assets/products/skincare/LafzCaffeineFaceMask.jpeg",
+      "images": [
+        "/assets/products/skincare/LafzCaffeineFaceMask.jpeg",
+        "/assets/products/skincare/LafzCaffeineFaceMask.2.jpeg",
+        "/assets/products/skincare/LafzCaffeineFaceMask.1.jpeg",
+        "/assets/products/skincare/LafzCaffeineFaceMask.3.jpeg"
+      ]
+    }
+  ]
+}
